@@ -1,0 +1,2 @@
+colorscheme grb256
+
